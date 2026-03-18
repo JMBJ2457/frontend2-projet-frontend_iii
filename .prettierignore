@@ -1,0 +1,9 @@
+# .prettierignore
+# Ignorar archivos Markdown
+*.md
+
+# Ignorar otras carpetas que no necesitan formato
+node_modules/
+build/
+dist/
+coverage/
