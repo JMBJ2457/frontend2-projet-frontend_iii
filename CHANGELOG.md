@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/compare/v1.0.1...v1.0.2) (2026-03-23)
+
+
+### Bug Fixes
+
+* Pruebas para el workflow de Docker ([1565e28](https://github.com/JMBJ2457/frontend2-projet-frontend_iii/commit/1565e28e763f3611a7b24edc82efded168b2b2e6))
+
 ## [1.0.1](https://github.com/JMBJ2457/frontend2-projet-Frontend_III/compare/v1.0.0...v1.0.1) (2026-03-23)
 
 
