@@ -112,4 +112,5 @@ You can also manually install Husky by running `npx husky install` in the projec
 
 **5. "Cannot find module '@rollup/rollup-linux-x64-gnu'"**
 This error usually occurs when there's a mismatch between the Node.js version used locally and the one used by the CI runner. Make sure you have the correct Node.js version installed locally and that your `package-lock.json` is up to date. You can try `rm -rf node_modules package-lock.json` and then `npm install` to regenerate it.
-\n## Prueba de versionamiento automatico con release.
+
+## Prueba de versionamiento automatico con release.
