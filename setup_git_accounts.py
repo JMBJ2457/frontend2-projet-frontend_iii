@@ -11,18 +11,18 @@ import sys
 ACCOUNTS = {
     "1": {
         "name": "Eduardo Aispuro",
-        "email": "eduardo.aispuro@example.com",
-        "username": "JMBJ2457"
+        "email": "luis.mejiaaispuro@cesun.edu.mx",
+        "username": "EduardoAispuro"
     },
     "2": {
-        "name": "Account 2 Name",
-        "email": "account2@example.com", 
-        "username": "username2"
+        "name": "Martin Bogarin",
+        "email": "martin.bogarin@example.com", 
+        "username": "JMBJ2457"
     },
     "3": {
-        "name": "Account 3 Name",
-        "email": "account3@example.com",
-        "username": "username3"
+        "name": "Pablo Rosas",
+        "email": "pablo.rosas@example.com",
+        "username": "PavlovRR"
     },
     "4": {
         "name": "Account 4 Name", 
